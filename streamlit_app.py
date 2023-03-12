@@ -13,11 +13,11 @@ st.sidebar.header('OpenAI API Key')
 openai.api_key = st.sidebar.text_input('Enter your OpenAI API key:')
 
 # Set up email parameters
-from_email = 'your_email@example.com'
+from_email = 'FlatMinimalistLogoDesigner@gmail.com'
 smtp_server = 'smtp.gmail.com'
 smtp_port = 587
-smtp_username = 'your_username'
-smtp_password = 'your_password'
+smtp_username = 'FlatMinimalistLogoDesigner@gmail.com'
+smtp_password = 'RE4jrSeR2hpVWHz'
 
 # Set up Streamlit app UI
 st.title('Transcription App')
